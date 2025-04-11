@@ -10,7 +10,7 @@
     <div class="container">
         <div class="poster">
             <img src="poster.jpg" alt="Poster" class="poster-image">
-            <h1 class="poster-title">Judul Poster</h1>
+            <h1 class="poster-title">Confess</h1>
             <p class="poster-description">Deskripsi singkat tentang poster ini.</p>
         </div>
         <div class="send-button">
